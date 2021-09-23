@@ -1,0 +1,10 @@
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\bin\Debug\netcoreapp3.1\DotNetWeb.Core.deps.json
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\bin\Debug\netcoreapp3.1\DotNetWeb.Core.dll
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\bin\Debug\netcoreapp3.1\DotNetWeb.Core.pdb
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.csproj.AssemblyReference.cache
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.AssemblyInfoInputs.cache
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.AssemblyInfo.cs
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.csproj.CoreCompileInputs.cache
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.dll
+C:\Users\bgera\OneDrive\Escritorio\Compi\Examen\DotNetWebTemplateCompiler-master\DotNetWeb.Core\obj\Debug\netcoreapp3.1\DotNetWeb.Core.pdb
